@@ -1,6 +1,6 @@
 👋 Hi, I’m Kimmuie or Pranchayut Netsawang  
 👀 I’m interested in coding  
-🌱 I’m currently learned some coding lauguage HTML&CSS , JS , Python , Swift
+🌱 I’m currently learned some coding lauguage HTML&CSS , JS , Python , Swift and there are my projects in repository 
   
 -Contact Me-  
 ig: kimmuie_
