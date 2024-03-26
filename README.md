@@ -2,7 +2,7 @@
 👀 I’m interested in coding  
 🌱 I’m currently learned some coding and there are my projects in repository 
   
--Contact Me-  
+-Contact-  
 ig: kimmuie_
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
