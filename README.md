@@ -1,6 +1,6 @@
 👋 Hi, I’m Kimmuie or Pranchayut Netsawang  
 👀 I’m interested in coding  
-🌱 I’m currently learned some coding lauguage HTML&CSS , JS , Python , Swift and there are my projects in repository 
+🌱 I’m currently learned some coding and there are my projects in repository 
   
 -Contact Me-  
 ig: kimmuie_
@@ -16,7 +16,6 @@ ig: kimmuie_
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript"width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Blender"width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Blender"width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="Blender"width="40" height="40"/>&nbsp;
 </div>
 
 ### :hammer_and_wrench: Tools :
