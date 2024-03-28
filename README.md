@@ -23,13 +23,6 @@ ig: kimmuie_
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Blender"width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Blender"width="40" height="40"/>&nbsp;
 </div>
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmuie" />
 
-
-Heyo @anuraghazra,
-I am also able to reproduce the following issue. In my profile, I can't use/see the Most Used Languages card due there are some issues.
-
-Code:
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=kimmuie&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
