@@ -4,9 +4,11 @@
 🌱 Internship at dData Company Limited (IT Services and IT Consulting )
   
 -Contact-  
-ig: kimmuie_
+ig: kimmuie_  
 fb: Kim Pranchayut
 -----------------------------------------------------
+
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=kimmuie&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)  
 
 ### :hammer_and_wrench: Languages :
 <div>
@@ -23,7 +25,6 @@ fb: Kim Pranchayut
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender"width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Blender"width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Blender"width="40" height="40"/>&nbsp;
-</div>
+</div>  
 
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=kimmuie&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
