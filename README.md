@@ -1,7 +1,7 @@
-👋 Hi, I’m Kimmuie or Pranchayut Netsawang  
+👋 Hi, I’m Kimmuie or Pranchayut Netsawang 16 yrs
 👀 I’m interested in coding  
 🌱 I’m currently learned some coding and there are my projects in repository  
-🌱I'm 16 Year Old and internship at dData co
+🌱 Internship at dData co
 https://th.linkedin.com/company/ddataco
   
 -Contact-  
