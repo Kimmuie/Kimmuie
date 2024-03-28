@@ -5,9 +5,6 @@
   
 -Contact-  
 ig: kimmuie_
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 -----------------------------------------------------
 
 ### :hammer_and_wrench: Languages :
@@ -26,4 +23,5 @@ ig: kimmuie_
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Blender"width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Blender"width="40" height="40"/>&nbsp;
 </div>
+  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmuie" />
