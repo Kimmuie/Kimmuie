@@ -1,7 +1,8 @@
 👋 Hi, I’m Kimmuie or Pranchayut Netsawang 16 yrs  
 👀 I’m interested in coding  
 🌱 I’m currently learned some coding and there are my projects in repository  
-🌱 Internship at <Link href="https://th.linkedin.com/company/ddataco">dData Company Limited (IT Services and IT Consulting )</Link>
+🌱 Internship at [dData Company Limited (IT Services and IT Consulting)](https://th.linkedin.com/company/ddataco)
+
   
 -Contact-  
 ig: kimmuie_  
