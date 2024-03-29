@@ -1,7 +1,7 @@
 👋 Hi, I’m Kimmuie or Pranchayut Netsawang 16 yrs  
 👀 I’m interested in coding  
 🌱 I’m currently learned some coding and there are my projects in repository  
-🎓 Studing in Bangkok Christian College and Internship at [dData Company Limited (IT Services and IT Consulting)](https://th.linkedin.com/company/ddataco)
+🎓 Studing in [Bangkok Christian College](https://www.bcc.ac.th/) and Internship at [dData Company Limited (IT Services and IT Consulting)](https://th.linkedin.com/company/ddataco)
 
 
 -Contact-  
