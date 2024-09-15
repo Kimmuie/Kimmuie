@@ -27,7 +27,7 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NEXT.js"width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"width="40" height="40"/>&nbsp;
-  <div style="background-color:#f0f0f0; padding:10px; display:inline-block;">
+  <div style="background-color:#f0f0f0;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="ThreeJS" width="40" height="40"/>
   </div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss"width="40" height="40"/>&nbsp;
