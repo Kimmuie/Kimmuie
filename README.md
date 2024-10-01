@@ -1,6 +1,6 @@
 👋 Hi, I’m Kimmuie or Pranchayut Netsawang 17 yrs  
-👀 I’m interested in coding and software engineer is my goal  
-🌱 I’m currently learned some coding and modeling, there are my projects in [repository](https://github.com/Kimmuie?tab=repositories)  
+👀 I’m interested in coding and software developer is my goal  
+🌱 I’m currently learned coding and modeling, there are my projects in [repository](https://github.com/Kimmuie?tab=repositories)  
 📚 Studing in [Bangkok Christian College](https://www.bcc.ac.th/) and passed an internship at [dData Company Limited (IT Services and IT Consulting)](https://th.linkedin.com/company/ddataco)  
 🚩Now my goal is to enter university and learning
 
