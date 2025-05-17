@@ -4,29 +4,26 @@
 🎓 I studied at [Bangkok Christian College](https://www.bcc.ac.th/), and now am entering [Thammasat University](https://tu.ac.th/en).  
 💼 I’ve also completed an internship at [dData Company Limited (IT Services and IT Consulting)](https://th.linkedin.com/company/ddataco).  
 
+<h3 align="center">📫 Contact</h3>
 <p align="center">
--Contact-  
-[ig: kimmuie_](https://instagram.com/kimmuie_)  
-[fb: Kim Pranchayut](https://www.facebook.com/pranchayut.netsawang/)
------------------------------------------------------
-</p> 
+  <a href="https://instagram.com/kimmuie_">📷 Instagram: kimmuie_</a><br>
+  <a href="https://www.facebook.com/pranchayut.netsawang/">📘 Facebook: Kim Pranchayut</a>
+</p>
+<h1 align="center">-----------------------------------------------------------------------------------</h1>
 
 <p align="center">
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=kimmuie&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff) 
 </p> 
 
+<h3 align="center">🛠️ Languages</h3>
 <p align="center">
-### :hammer_and_wrench: Languages :
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,swift,python,c" />
-  </a
-</p>
-
-<p align="center">
-### :hammer_and_wrench: Tools & Library & Framwork :
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs,blender,ps,arduino,figma" />
   </a>
 </p>
 
-
+<h3 align="center">🧰 Tools, Libraries & Frameworks</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs,blender,ps,arduino,figma" />
+  </a>
