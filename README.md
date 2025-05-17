@@ -11,8 +11,8 @@
 <h1 align="center">--------------------------------------------------</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimmuie&show_icons=true&theme=dracula">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmuie&layout=compact&langs_count=8&hide_border=false&title_color=cd6584&icon_color=6eb6c5&text_color=e6e7e9&bg_color=282a36" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kimmuie&show_icons=true&theme=dracula" style="margin-right: 10px; height: 150px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmuie&layout=compact&langs_count=8&hide_border=false&title_color=ee688e&icon_color=6eb6c5&text_color=f8f8f2&bg_color=282a36" style="height: 150px;"/>
 </p>
 
 <h3 align="center">🛠️ Languages</h3>
