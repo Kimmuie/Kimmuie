@@ -7,16 +7,16 @@
 <h3 align="center">📫 Contact</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/pranchayut-netsawang-925109306/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 120px; height: 50px;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 140px; height: 50px;"/>
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvpbDVGtNmlZQWrFFcbdHCMtXVVVMpLSGkSdxcxxKWDxchwFrLrPqnJQGDNWtcggtzqvSV">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="width: 120px; height: 50px;"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="width: 140px; height: 50px;"/>
   </a>
   <a href="https://instagram.com/kimmuie_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="width: 120px; height: 50px;"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="width: 140px; height: 50px;"/>
   </a>
   <a href="https://www.facebook.com/pranchayut.netsawang/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="width: 120px; height: 50px;"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="width: 140px; height: 50px;"/>
   </a>
 </p>
 
