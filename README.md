@@ -5,8 +5,18 @@
 💼 I’ve also completed an internship at [dData Company Limited (IT Services and IT Consulting)](https://th.linkedin.com/company/ddataco).  
 
 <h3 align="center">📫 Contact</h3>
-  <h4 align="center"><a href="https://instagram.com/kimmuie_">Instagram: kimmuie_</a></h4>
-  <h4 align="center"><a href="https://www.facebook.com/pranchayut.netsawang/">Facebook: Kim Pranchayut</a></h4>  
+  <a href="www.linkedin.com/in/pranchayut-netsawang-925109306">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 70px;"/>
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvpbDVGtNmlZQWrFFcbdHCMtXVVVMpLSGkSdxcxxKWDxchwFrLrPqnJQGDNWtcggtzqvSV">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="width: 70px;"/>
+  </a>
+  <a href="https://instagram.com/kimmuie_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="width: 70px;"/>
+  </a>
+  <a href="https://www.facebook.com/pranchayut.netsawang/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="width: 70px;"/>
+  </a>
 
 <h1 align="center">--------------------------------------------------</h1>
 
