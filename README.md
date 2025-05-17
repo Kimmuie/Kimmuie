@@ -5,7 +5,7 @@
 💼 I’ve also completed an internship at [dData Company Limited (IT Services and IT Consulting)](https://th.linkedin.com/company/ddataco).  
 
 <h3 align="center">📫 Contact</h3>
-  <h4 align="center"><a href="https://instagram.com/kimmuie_">Instagram: kimmuie_</a></h4><br>
+  <h4 align="center"><a href="https://instagram.com/kimmuie_">Instagram: kimmuie_</a></h4>
   <h4 align="center"><a href="https://www.facebook.com/pranchayut.netsawang/">Facebook: Kim Pranchayut</a></h4>  
 
 <h1 align="center">--------------------------------------------------</h1>
