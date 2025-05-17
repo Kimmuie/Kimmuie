@@ -6,14 +6,14 @@
 
 <h3 align="center">📫 Contact</h3>
 <p align="center">
-  <a href="https://instagram.com/kimmuie_">📷 Instagram: kimmuie_</a><br>
-  <a href="https://www.facebook.com/pranchayut.netsawang/">📘 Facebook: Kim Pranchayut</a>
+  <h3><a href="https://instagram.com/kimmuie_">Instagram: kimmuie_</a></h3><br>
+  <h3><a href="https://www.facebook.com/pranchayut.netsawang/">Facebook: Kim Pranchayut</a></h3>
 </p>
 <h1 align="center">-----------------------------------------------------------------------------------</h1>
 
 <p align="center">
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=kimmuie&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff) 
-</p> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmuie&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+</p>
 
 <h3 align="center">🛠️ Languages</h3>
 <p align="center">
