@@ -9,14 +9,20 @@
 [ig: kimmuie_](https://instagram.com/kimmuie_)  
 [fb: Kim Pranchayut](https://www.facebook.com/pranchayut.netsawang/)
 -----------------------------------------------------
+</p> 
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=kimmuie&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)  
+<p align="center">
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=kimmuie&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff) 
+</p> 
 
+<p align="center">
 ### :hammer_and_wrench: Languages :
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,swift,python,c" />
-  </a>
+  </a
+</p>
 
+<p align="center">
 ### :hammer_and_wrench: Tools & Library & Framwork :
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs,blender,ps,arduino,figma" />
