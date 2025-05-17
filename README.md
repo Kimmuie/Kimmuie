@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kimmuie&show_icons=true&theme=dracula">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmuie&layout=compact&langs_count=8&hide_border=true&theme=dracula&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmuie&layout=compact&langs_count=8&hide_border=true&title_color=#cd6584&icon_color=#6eb6c5&text_color=##e6e7e9&bg_color=#282a36" />
 </p>
 
 <h3 align="center">🛠️ Languages</h3>
