@@ -23,9 +23,10 @@
 <h1 align="center">--------------------------------------------------</h1>
 
 <p align="center">
-  <picture>
-    <source src="https://github-readme-stats.vercel.app/api?username=kimmuie&show_icons=true&theme=dracula" media:"(include_all_commits: true)" style="margin-right: 25px; height: 150px;"/>
-  </picture>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=kimmuie&show_icons=true&theme=dracula&include_all_commits=true" 
+    style="margin-right: 25px; height: 150px;" 
+  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmuie&layout=compact&langs_count=8&hide_border=false&title_color=ee688e&icon_color=6eb6c5&text_color=f8f8f2&bg_color=282a36" style="height: 150px;"/>
 </p>
 
