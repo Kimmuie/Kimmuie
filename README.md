@@ -1,4 +1,4 @@
-👋 Hi, I’m Kimmuie (Pranchayut Netsawang), a 17-year-old.  
+👋 Hi, I’m Kimmuie (Pranchayut Netsawang), a 18-year-old.  
 🧐 I’m passionate in coding and aim to be capable for software developer.  
 🎯 My core skills include programming, 3D modeling, and graphic design, You can explore some of my projects in [repository](https://github.com/Kimmuie?tab=repositories).  
 🎓 I studied at [Bangkok Christian College](https://www.bcc.ac.th/), and now am entering [Thammasat University](https://tu.ac.th/en).  
