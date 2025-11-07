@@ -1,7 +1,7 @@
 👋 Hi, I’m Kimmuie (Pranchayut Netsawang), a 18-year-old.  
 🧐 I’m passionate in coding and aim to be capable for software developer.  
 🎯 My core skills include programming, 3D modeling, and graphic design, You can explore some of my projects in [repository](https://github.com/Kimmuie?tab=repositories).  
-🎓 I studied at [Bangkok Christian College](https://www.bcc.ac.th/), and now am entering [Thammasat University](https://tu.ac.th/en).  
+🎓 I studied at [Bangkok Christian College](https://www.bcc.ac.th/), and now am entered [Thammasat University](https://tu.ac.th/en) with faculty of Software Engineering.  
 💼 I’ve also completed an internship at [dData Company Limited (IT Services and IT Consulting)](https://th.linkedin.com/company/ddataco).  
 
 <h3 align="center">📫 Contact</h3>
